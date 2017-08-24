@@ -52,3 +52,10 @@
   background-image: url('http://www.sanandreasfault.org/4020_A.jpg');
   background-position: center;
 }
+.all-earthquakes {
+  background-color: #bdc3c7;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-between;
+}
